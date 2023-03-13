@@ -1,2 +1,2 @@
 print("Yasha")
-pribt("New Change"
+print("New Change")
